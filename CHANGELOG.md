@@ -4,6 +4,13 @@ Core release notes start from the current `0.1.1` baseline. Earlier repository h
 
 <!-- towncrier release notes start -->
 
+## 0.6.1 - 2026-09-21
+
+### Changed
+
+- Publish first-party Extension documentation from saved candidates, and keep the official production deployment inactive in forks. (#extension-documentation)
+
+
 ## 0.6.0 - 2026-09-21
 
 ### Added
